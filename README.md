@@ -2,7 +2,7 @@
 
 A web app that has a really simple image carousel on it.
 
-🔗 **[Live Demo](https://jazzy-cat-1a04a0.netlify.app/)**
+🔗 **[Live Demo](https://prismatic-stardust-27db29.netlify.app/)**
 
 ## Technologies
 - HTML
